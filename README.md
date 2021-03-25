@@ -23,4 +23,4 @@ The page contains 20 broken links of various types and combinations.
 * Broken Link to image on non-existing domain
 * Broken Anchor Link on non-existing domain
 * Broken Link to non-existing domain with query string
-* Broken Link to missing favicon.ico
+* Broken Link to missing favicon.ico (A good broken link checker should check this if it hit the root of the website. There might be a tag in the page that redirects the browser to another file.)
