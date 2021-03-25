@@ -1,8 +1,8 @@
 # Broken Links Test Website
 Simple GitHub Pages website to use for testing website broken link checkers.
 
-Point your broken link checker at [frederickjh.github.io/broken-link-test-website](https://frederickjh.github.io/broken-link-test-website) to test it.
-The page contains 19 broken links of various types and combinations.
+Point your broken link checker at [https://frederickjh.github.io/broken-link-test-website/](https://frederickjh.github.io/broken-link-test-website/) to test it. The final slash (/) is required or Github will give you its own 404 page.
+The page contains 20 broken links of various types and combinations.
 
 * Absolute broken link to image
 * Absolute broken link to non-existing page
@@ -23,3 +23,4 @@ The page contains 19 broken links of various types and combinations.
 * Broken Link to image on non-existing domain
 * Broken Anchor Link on non-existing domain
 * Broken Link to non-existing domain with query string
+* Broken Link to missing favicon.ico
